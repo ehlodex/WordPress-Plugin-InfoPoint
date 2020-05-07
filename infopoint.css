@@ -1,0 +1,9 @@
+.infopoint-wrapper {
+    display: inline-block;
+    font-size: 2em;
+}
+
+/* internal Slide Info -- possibly unused */
+.infopoint-route-data {
+    display: inline;
+}
