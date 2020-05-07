@@ -1,3 +1,4 @@
+// TODO: Convert CopyPasta to Actual Code
 function plusDivs(n, myDivClass) {
   showDivs(slideIndex += n, myDivClass);
 }

@@ -6,4 +6,5 @@
 /* internal Slide Info -- possibly unused */
 .infopoint-route-data {
     display: inline;
+    background: transparent;
 }

@@ -8,7 +8,7 @@
 </head>
 
 <body>
-	<h1>InfoPoint API Test v. 2.20.05.07-1130</h1>
+	<h1>InfoPoint API Test v. 2.20.05.07-1145</h1>
     
     <p style="color:#F00; font-weight: 700; font-size: 1.5em;">*** This page does <em>not</em> refresh automatically ***</p>
 	
