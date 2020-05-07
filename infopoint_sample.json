@@ -1,0 +1,28 @@
+{
+    "InfoPoint": "https://your.infopoint.url/InfoPoint",
+    "GetVisibleRoutes": "/path/to/GetVisibleRoutes",
+    "NoVehicle": {
+        "VehicleId": "N/A",
+        "Name": "N/A",
+        "Latitude": 0.0,
+        "Longitude": 0.0,
+        "RouteId": 0,
+        "TripId": 0,
+        "RunId": 0,
+        "Direction": "N/A",
+        "DirectionLong": "No Direction",
+        "Destination": "No Destination",
+        "Speed": 0,
+        "Heading": 0,
+        "Deviation": 0,
+        "OpStatus": "N/A",
+        "CommStatus": "NONE",
+        "GPSStatus": 0,
+        "DriverName": "No Driver",
+        "LastStop": "No Last Stop",
+        "OnBoard": 0,
+        "LastUpdated": "/Date(1577854800000-0500)/",
+        "DisplayStatus": "No Bus",
+        "BlockFareboxId": 0
+    }
+}
