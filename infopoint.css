@@ -1,10 +1,23 @@
 .infopoint-wrapper {
     display: inline-block;
     font-size: 2em;
+    width: 100%;
 }
 
-/* internal Slide Info -- possibly unused */
 .infopoint-route-data {
     display: inline;
     background: transparent;
+}
+
+.infopoint-route {
+    border-bottom: 1px solid black;
+}
+
+.infopoint-route {
+    min-height: 80px;
+}
+
+/* Hide all but the first route block in each route-group. */
+.infopoint-route-group .infopoint-route-block:not(:first-of-type) {
+    display: none;
 }
