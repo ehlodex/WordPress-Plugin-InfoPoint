@@ -9,12 +9,11 @@
     background: transparent;
 }
 
-.infopoint-route {
+.infopoint-route-block {
     border-bottom: 1px solid black;
-}
-
-.infopoint-route {
     min-height: 80px;
+    display: grid;
+    grid-template-columns: 25% 50% 25%;
 }
 
 /* Hide all but the first route block in each route-group. */

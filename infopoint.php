@@ -6,7 +6,7 @@
    Version: 0.1
    Author: LCTA
    Author URI: https://www.lctabus.com
-   License: GPL2
+   License: MIT
    */
 
 ?>
